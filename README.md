@@ -1,4 +1,5 @@
 📊 Superstore Dataset Analysis Project
+
 📌 1. Overview
 
 This project performs an exploratory data analysis (EDA) on the Superstore dataset to understand business performance across sales, profit, customer segments, categories, and regions.
