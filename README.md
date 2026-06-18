@@ -1,5 +1,3 @@
-.
-
 📊 Superstore Dataset Analysis Project
 📌 1. Overview
 
